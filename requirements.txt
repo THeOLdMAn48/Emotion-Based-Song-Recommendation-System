@@ -1,0 +1,11 @@
+numpy
+opencv-python
+tensorflow
+keras
+pandas
+spotipy
+requests
+json5
+pickle-mixin
+tkinter (optional, built-in for Python)
+streamlit (if using a web-based interface)
